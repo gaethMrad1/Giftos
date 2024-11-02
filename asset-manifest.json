@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Giftos/static/css/main.e9d6e57e.css",
+    "main.js": "/Giftos/static/js/main.18bc25ba.js",
+    "index.html": "/Giftos/index.html",
+    "main.e9d6e57e.css.map": "/Giftos/static/css/main.e9d6e57e.css.map",
+    "main.18bc25ba.js.map": "/Giftos/static/js/main.18bc25ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9d6e57e.css",
+    "static/js/main.18bc25ba.js"
+  ]
+}
